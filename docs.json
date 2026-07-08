@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "linden",
   "name": "Mintlify Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#08b7ff",
+    "light": "#00caff",
+    "dark": "#329ebb"
   },
   "favicon": {
     "light": "/images/logo_square.png",
