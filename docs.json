@@ -34,7 +34,20 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Главная информация",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
+        "group": "Игровой контент",
+        "pages": []
+      }
+    ]
   },
   "logo": {
     "light": "/images/logo_square_blue.png",
