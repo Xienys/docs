@@ -69,7 +69,7 @@
       }
     ],
     "primary": {
-      "type": "discord",
+      "type": "button",
       "label": "Discord",
       "href": "https://https://discord.com/invite/4ww4hZqsp4"
     }
