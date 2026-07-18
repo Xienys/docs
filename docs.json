@@ -23,6 +23,13 @@
     ],
     "groups": [
       {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
         "group": "Главная информация",
         "pages": [
           "index",
@@ -62,9 +69,9 @@
       }
     ],
     "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "type": "discord",
+      "label": "Discord",
+      "href": "https://https://discord.com/invite/4ww4hZqsp4"
     }
   },
   "footer": {
