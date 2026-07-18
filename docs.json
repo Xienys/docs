@@ -74,5 +74,8 @@
       "telegram": "https://t.me/luminousmc",
       "youtube": "https://www.youtube.com/@winevii"
     }
+  },
+  "styling": {
+    "codeblocks": "dark"
   }
 }
