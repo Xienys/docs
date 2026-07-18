@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "linden",
-  "name": "Mintlify Starter Kit",
+  "name": "Luminous",
   "colors": {
     "primary": "#08b7ff",
     "light": "#00caff",
