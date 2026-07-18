@@ -45,7 +45,20 @@
       },
       {
         "group": "Игровой контент",
-        "pages": []
+        "pages": [
+          "rename-setloreline"
+        ]
+      },
+      {
+        "group": "Правила",
+        "pages": [
+          "obschie-pravila",
+          "untitled-page",
+          "mir-postroek",
+          "mir-vyzhivaniya",
+          "mir-zavodov",
+          "zapreschennye-modifikatsii"
+        ]
       }
     ]
   },
