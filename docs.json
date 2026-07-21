@@ -27,7 +27,8 @@
         "pages": [
           "index",
           "quickstart"
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "Главная информация",
